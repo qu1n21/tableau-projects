@@ -6,7 +6,7 @@
 
 
 ### Dashboard Preview
-![](assets/spotify-dashboard.png)
+![spotify dashboard](assets/spotify-dashboard.png)
 
 
 Dashboard link:
@@ -19,7 +19,7 @@ This dashboard explores global health metrics across countries and continents.
 
 ## Dashboard preview
 
-![](assests/world-health-dashboard.png)
+![world health dashboard](assets/world-health-dashboard.png)
 
 Dashboard link:
 https://public.tableau.com/views/Health_Survey_Data/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
