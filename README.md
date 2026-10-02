@@ -1,4 +1,6 @@
-# tableau-practice
+# Tableau Dashboards
+
+This repository contains Tableau dashboards created to analyse Spotify and World Health datasets.
 
 ## Spotify Dashboard
 
@@ -12,16 +14,21 @@ I chose to focus on the following aspects in particular:
 - Popularity by genre
 - Danceability per genre
 
+### Technologies Used
+- Tableau
+- Tableau Public
+
 ### Dashboard Preview
 
 ![spotify dashboard](assets/spotify-dashboard.png)
 
 Key Insights:
-- Pop is the most popular genre on Spotify, follwoed by Rap, Hip-Hop, Rock and Indie. This data can be used to highlight these genres and promote them more to audiences.
-- The most danceable genre is R&B, in comparison to least danceable being Opera. This data could be used to create playlists or recommend songs from this genre in a "club" or "dance" section of the app. 
+- Pop was the most popular genre, followed by Rap, Hip-Hop, Rock and Indie. This could help Spotify prioritise recommendations and promotional content.
+- R&B was the most danceable genre, while Opera was the least danceable. This could support playlist curation and recommendation systems.
+- Artist popularity varied significantly between genres, helping identify leading artists within each category.
+- The dashboard identified the most popular tracks in the dataset, providing insight into current listener preferences.
 
-Dashboard link:
-https://public.tableau.com/views/Spotify_Dataset_17900833912310/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+[View Dashboard on Tableau Public](https://public.tableau.com/views/Spotify_Dataset_17900833912310/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 ## World Health Dashboard
 
@@ -40,10 +47,13 @@ I chose to focus on the following aspects in particular:
 ![world health dashboard](assets/world-health-dashboard.png)
 
 Key Insights:
+- Tonga recorded the highest average BMI in the dataset.
+- Most countries with the highest BMI values were located in Oceania and Asia.
+- A positive relationship was observed between BMI and blood pressure.
+- African countries generally showed lower life expectancy than other regions.
+- These findings could support targeted public health initiatives and resource allocation.
 
-
-Dashboard link:
-https://public.tableau.com/views/Health_Survey_Data/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+[View Dashboard on Tableau Public](https://public.tableau.com/views/Health_Survey_Data/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Skills Demonstrated:
 - Dashboard creation
